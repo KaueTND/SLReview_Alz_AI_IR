@@ -1,0 +1,822 @@
+%0 Conference Paper
+%T Similarity based classification of ADHD using singular value decomposition
+%@ 9781450357616
+%U https://doi.org/10.1145/3203217.3203239
+%R 10.1145/3203217.3203239
+%B Proceedings of the 15th ACM International Conference on Computing Frontiers
+%I Association for Computing Machinery
+%A Taban Eslami
+%A Fahad Saeed
+%D 2018
+%P 19–25
+%K multivariate time series, fMRI, cross validation, eros, ADHD disorder
+%C Ischia, Italy
+
+%0 Conference Paper
+%T Calcium Signaling and Finite Element Technique
+%@ 9781450366540
+%U https://doi.org/10.1145/3314367.3314377
+%R 10.1145/3314367.3314377
+%B Proceedings of the 2019 9th International Conference on Bioscience, Biochemistry and Bioinformatics
+%I Association for Computing Machinery
+%A Devanshi D. Dave
+%A Brajesh Kumar Jha
+%D 2019
+%P 53–57
+%K EGTA, BAPTA, Finite element technique, Calcium signaling
+%C Singapore, Singapore
+
+%0 Journal Article
+%T Cortical Thinning and Cognitive Impairment in Parkinson's Disease without Dementia
+%V 15
+%@ 1545-5963
+%U https://doi.org/10.1109/TCBB.2015.2465951
+%R 10.1109/TCBB.2015.2465951
+%N 2
+%J IEEE/ACM Trans. Comput. Biol. Bioinformatics
+%I IEEE Computer Society Press
+%A Lijun Zhang
+%A Ming Wang
+%A Nicholas W. Sterling
+%A Eun-Young Lee
+%A Paul J. Eslinger
+%A Daymond Wagner
+%A Guangwei Du
+%A Mechelle M. Lewis
+%A Young Truong
+%A F. DuBois Bowman
+%A Xuemei Huang
+%D 2018
+%P 570–580
+
+%0 Conference Paper
+%T Neuromodulation system in closed loop for enhancing the sleep and the memory consolidation
+%@ 9781450371766
+%U https://doi.org/10.1145/3335595.3335646
+%R 10.1145/3335595.3335646
+%B Proceedings of the XX International Conference on Human Computer Interaction
+%I Association for Computing Machinery
+%A Nestor Garay-Vitoria
+%A Andoni Arruti
+%A José I. Martín
+%A Javier Muguerza
+%A Ainara Garzo
+%A Erik Hernández
+%A Ainhoa Álvarez
+%A Jon Arambarri
+%A Pedro M. Paz-Alonso
+%A Manuel Carreiras
+%A Ander Ramos-Murguialday
+%D 2019
+%P Article 11
+%K sleep spindles, sleep quality, Electroencephalography, sleep stage, neuromodulation, brain capacities
+%C Donostia, Gipuzkoa, Spain
+
+%0 Journal Article
+%T Imaging sciences R&amp;D laboratories in Argentina
+%V 63
+%@ 0001-0782
+%U https://doi.org/10.1145/3416977
+%R 10.1145/3416977
+%N 11
+%J Commun. ACM
+%I Association for Computing Machinery
+%A Claudio Delrieux
+%A Virginia Ballarín
+%A Cristian García Bauza
+%A Mario A. López
+%D 2020
+%P 90–95
+
+%0 Journal Article
+%T Identifying Candidate Genetic Associations with MRI-Derived AD-Related ROI via Tree-Guided Sparse Learning
+%V 16
+%@ 1545-5963
+%U https://doi.org/10.1109/TCBB.2018.2833487
+%R 10.1109/TCBB.2018.2833487
+%N 6
+%J IEEE/ACM Trans. Comput. Biol. Bioinformatics
+%I IEEE Computer Society Press
+%A Xiaoke Hao
+%A Xiaohui Yao
+%A Shannon L. Risacher
+%A Andrew J. Saykin
+%A Jintai Yu
+%A Huifu Wang
+%A Lan Tan
+%A Li Shen
+%A Daoqiang Zhang
+%D 2019
+%P 1986–1996
+
+%0 Conference Paper
+%T Tradeoffs between Classical Conditioning, Learning by Imitation and Learning by Doing based on Lecture Architecture
+%@ 9781450377058
+%U https://doi.org/10.1145/3395245.3396426
+%R 10.1145/3395245.3396426
+%B Proceedings of the 2020 8th International Conference on Information and Education Technology
+%I Association for Computing Machinery
+%A Siddharth Srivastava
+%A Prabhakar T. V.
+%D 2020
+%P 58–62
+%K Depth of Knowledge, MOOC, Content Complexity, Classical Conditioning, Learning by Imitation, Learning by Doing, Bloom's Taxonomy, Knowledge Points
+%C Okayama, Japan
+
+%0 Journal Article
+%T Network Structure Inference, A Survey: Motivations, Methods, and Applications
+%V 51
+%@ 0360-0300
+%U https://doi.org/10.1145/3154524
+%R 10.1145/3154524
+%N 2
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Ivan Brugere
+%A Brian Gallagher
+%A Tanya Y. Berger-Wolf
+%D 2018
+%P Article 24
+%K Graph mining, relational learning, computational science
+
+%0 Journal Article
+%T How Does Fitbit Measure Brainwaves: A Qualitative Study into the Credibility of Sleep-tracking Technologies
+%V 4
+%U https://doi.org/10.1145/3380994
+%R 10.1145/3380994
+%N 1
+%J Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+%I Association for Computing Machinery
+%A Zilu Liang
+%A Bernd Ploderer
+%D 2020
+%P Article 17
+%K Consumer devices, Sleep-tracking, Personal informatics, Quantified self, Credibility, Wearable sensors
+
+%0 techreport
+%T When Computers Decide: European Recommendations on Machine-Learned Automated Decision Making
+%I Association for Computing Machinery
+%A James Larus
+%A Chris Hankin
+%A Siri Granum Carson
+%A Markus Christen
+%A Silvia Crafa
+%A Oliver Grau
+%A Claude Kirchner
+%A Bran Knowles
+%A Andrew McGettrick
+%A Damian Andrew Tamburri
+%A Hannes Werthner
+%D 2018
+
+%0 Conference Paper
+%T Exploring Systematic Bias through Article Deletions on Wikipedia from a Behavioral Perspective
+%@ 9781450387798
+%U https://doi.org/10.1145/3412569.3412573
+%R 10.1145/3412569.3412573
+%B Proceedings of the 16th International Symposium on Open Collaboration
+%I Association for Computing Machinery
+%A Zena Worku
+%A Taryn Bipat
+%A David W. McDonald
+%A Mark Zachry
+%D 2020
+%P Article 13
+%K Peer Production, Gender, Wikipedia, Systemic Bias, Article Deletion
+%C Virtual conference, Spain
+
+%0 Conference Paper
+%T The ethical and privacy implications of mixed reality
+%@ 9781450363129
+%U https://doi.org/10.1145/3306212.3328138
+%R 10.1145/3306212.3328138
+%B ACM SIGGRAPH 2019 Panels
+%I Association for Computing Machinery
+%A Kent Bye
+%A Diane Hosfelt
+%A Sam Chase
+%A Matt Miesnieks
+%A Taylor Beck
+%D 2019
+%P Article 4
+%K privacy, mixed reality, ethics, augmented reality, virtual reality
+%C Los Angeles, California
+
+%0 Conference Paper
+%T A Comparison of Machine Learning Methods for Data Imputation
+%@ 9781450388788
+%U https://doi.org/10.1145/3411408.3411465
+%R 10.1145/3411408.3411465
+%B 11th Hellenic Conference on Artificial Intelligence
+%I Association for Computing Machinery
+%A Christos Platias
+%A Georgios Petasis
+%D 2020
+%P 150–159
+%K missing values, autoencoders, imputation methods, neural networks
+%C Athens, Greece
+
+%0 Conference Paper
+%T Introducing Peripheral Awareness as a Neurological State for Human-computer Integration
+%@ 9781450367080
+%U https://doi.org/10.1145/3313831.3376128
+%R 10.1145/3313831.3376128
+%B Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Josh Andres
+%A m.c. schraefel
+%A Nathan Semertzidis
+%A Brahmi Dwivedi
+%A Yutika C. Kulwe
+%A Juerg von Kaenel
+%A Florian Floyd Mueller
+%D 2020
+%P 1–13
+%K human-system partnership, human-computer-integration, peripheral awareness, inbodied interaction
+%C Honolulu, HI, USA
+
+%0 Conference Paper
+%T Multimodal Learning with Incomplete Modalities by Knowledge Distillation
+%@ 9781450379984
+%U https://doi.org/10.1145/3394486.3403234
+%R 10.1145/3394486.3403234
+%B Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining
+%I Association for Computing Machinery
+%A Qi Wang
+%A Liang Zhan
+%A Paul Thompson
+%A Jiayu Zhou
+%D 2020
+%P 1828–1838
+%K multimodal learning, knowledge distillation, incomplete modalities
+%C Virtual Event, CA, USA
+
+%0 Journal Article
+%T Exploring How Persons with Dementia and Care Partners Collaboratively Appropriate Information and Communication Technologies
+%V 27
+%@ 1073-0516
+%U https://doi.org/10.1145/3389377
+%R 10.1145/3389377
+%N 6
+%J ACM Trans. Comput.-Hum. Interact.
+%I Association for Computing Machinery
+%A Amy S. Hwang
+%A Piper Jackson
+%A Andrew Sixsmith
+%A Louise Nygård
+%A Arlene Astell
+%A Khai N. Truong
+%A Alex Mihailidis
+%D 2020
+%P Article 46
+%K care relationship, cognitive impairment, off-the-shelf, appropriation, commercial product, Alzheimer's disease, case study, dementia, caregiving, care practices, family care, information and communication technologies
+
+%0 Journal Article
+%T Design, Large-Scale Usage Testing, and Important Metrics for Augmented Reality Gaming Applications
+%V 15
+%@ 1551-6857
+%U https://doi.org/10.1145/3311748
+%R 10.1145/3311748
+%N 2
+%J ACM Trans. Multimedia Comput. Commun. Appl.
+%I Association for Computing Machinery
+%A Pierdicca Roberto
+%A Frontoni Emanuele
+%A Zingaretti Primo
+%A Mancini Adriano
+%A Loncarski Jelena
+%A Paolanti Marina
+%D 2019
+%P Article 41
+%K gaming framework, puzzle, large scale testing, mobile gaming, Augmented reality
+
+%0 Conference Paper
+%T A Review on the Mechanisms of Mitochondrial Dynamics and the Relationship with Neurodegeneration
+%@ 9781450388603
+%U https://doi.org/10.1145/3429889.3429941
+%R 10.1145/3429889.3429941
+%B Proceedings of the 2020 International Symposium on Artificial Intelligence in Medical Sciences
+%I Association for Computing Machinery
+%A YaNan Zhu
+%D 2020
+%P 276–288
+%K neurodegenerative diseases, Alzheimer's disease, mitochondrial fission and fusion, mitochondrial dynamics, amyotrophic lateral sclerosis, mitochondrial trafficking, Huntington's disease, Parkinson's disease
+%C Beijing, China
+
+%0 Conference Paper
+%T "An Unscented Hound for Working Memory" and the Cognitive Adaptation of User Interfaces
+%@ 9781450360210
+%U https://doi.org/10.1145/3320435.3320443
+%R 10.1145/3320435.3320443
+%B Proceedings of the 27th ACM Conference on User Modeling, Adaptation and Personalization
+%I Association for Computing Machinery
+%A Bruno Massoni Sguerra
+%A Pierre Jouvelot
+%D 2019
+%P 78–85
+%K working memory, cognitive adaptation, ui adaptation, gradient boosting, unscented kalman filter
+%C Larnaca, Cyprus
+
+%0 Journal Article
+%T Image Wishlist: Context and Images in Commons-Based Peer Production Communities
+%V 4
+%U https://doi.org/10.1145/3415249
+%R 10.1145/3415249
+%N CSCW2
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Amanda Menking
+%A David W. McDonald
+%D 2020
+%P Article 178
+%K decontextualization, images, peer production, recontextualization, wikimedia commons, wikipedia, women's health
+
+%0 Book
+%T The Sparse Fourier Transform: Theory and Practice
+%@ 9781947487079
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Haitham Hassanieh
+%D 2018
+
+%0 Journal Article
+%T "I Cannot Do All of This Alone": Exploring Instrumental and Prayer Support in Online Health Communities
+%V 27
+%@ 1073-0516
+%U https://doi.org/10.1145/3402855
+%R 10.1145/3402855
+%N 5
+%J ACM Trans. Comput.-Hum. Interact.
+%I Association for Computing Machinery
+%A C. Estelle Smith
+%A Zachary Levonian
+%A Haiwei Ma
+%A Robert Giaquinto
+%A Gemma Lein-Mcdonough
+%A Zixuan Li
+%A Susan O’conner-Von
+%A Svetlana Yarosh
+%D 2020
+%P Article 38
+%K caregiver, prayer support, sharing economy, Online health communities, friendsourcing, cancer, health, instrumental support, social support, patient, informational support, CaringBridge, emotional support
+
+%0 Conference Paper
+%T Multimodal Neuroimaging Game Theoretic Data Fusion in Adversarial Conditions
+%@ 9781450380256
+%U https://doi.org/10.1145/3400286.3418269
+%R 10.1145/3400286.3418269
+%B Proceedings of the International Conference on Research in Adaptive and Convergent Systems
+%I Association for Computing Machinery
+%A Christian Esposito
+%A Oscar Tamburis
+%A Chang Choi
+%D 2020
+%P 59–66
+%K Feature Selection, Dempster-Shafer Theory, Security, Fuzzy Theory, Distributed Learning, Game Theory
+%C Gwangju, Republic of Korea
+
+%0 Journal Article
+%T Resource Management in Fog/Edge Computing: A Survey on Architectures, Infrastructure, and Algorithms
+%V 52
+%@ 0360-0300
+%U https://doi.org/10.1145/3326066
+%R 10.1145/3326066
+%N 5
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Cheol-Ho Hong
+%A Blesson Varghese
+%D 2019
+%P Article 97
+%K infrastructure, algorithms, Fog/edge computing, architectures, resource management
+
+%0 Journal Article
+%T Introducing a Stable Bootstrap Validation Framework for Reliable Genomic Signature Extraction
+%V 15
+%@ 1545-5963
+%U https://doi.org/10.1109/TCBB.2016.2633267
+%R 10.1109/TCBB.2016.2633267
+%N 1
+%J IEEE/ACM Trans. Comput. Biol. Bioinformatics
+%I IEEE Computer Society Press
+%A Nikolaos-Kosmas Chlis
+%A Ekaterini S. Bei
+%A Michalis Zervakis
+%D 2018
+%P 181–190
+
+%0 Conference Paper
+%T Exploring the Potential of Speech-based Virtual Assistants in Mixed Reality Applications for People with Cognitive Disabilities
+%@ 9781450375351
+%U https://doi.org/10.1145/3399715.3399845
+%R 10.1145/3399715.3399845
+%B Proceedings of the International Conference on Advanced Visual Interfaces
+%I Association for Computing Machinery
+%A Francesco Vona
+%A Emanuele Torelli
+%A Eleonora Beccaluva
+%A Franca Garzotto
+%D 2020
+%P Article 21
+%K Cognitive Disability, Virtual Assistant, Mixed Reality, Controlled Study
+%C Salerno, Italy
+
+%0 Conference Paper
+%T Understanding the human brain via its spatio-temporal properties (vision paper)
+%@ 9781450358897
+%U https://doi.org/10.1145/3274895.3274931
+%R 10.1145/3274895.3274931
+%B Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
+%I Association for Computing Machinery
+%A Ouri Wolfson
+%D 2018
+%P 85–88
+%K connectomics, brain applications of mobile data, mobile data analytics, data mining, transportation
+%C Seattle, Washington
+
+%0 Conference Paper
+%T "Accessibility Came by Accident": Use of Voice-Controlled Intelligent Personal Assistants by People with Disabilities
+%@ 9781450356206
+%U https://doi.org/10.1145/3173574.3174033
+%R 10.1145/3173574.3174033
+%B Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Alisha Pradhan
+%A Kanika Mehta
+%A Leah Findlater
+%D 2018
+%P Paper 459
+%K conversational interfaces, speech, disability, accessibility, intelligent personal assistants
+%C Montreal QC, Canada
+
+%0 Journal Article
+%T Biomedical computing in the Arab world: unlocking the potential of a growing research community
+%V 64
+%@ 0001-0782
+%U https://doi.org/10.1145/3447746
+%R 10.1145/3447746
+%N 4
+%J Commun. ACM
+%I Association for Computing Machinery
+%A Seif Eldawlatly
+%A Mohamed Abouelhoda
+%A Omar S. Al-Kadi
+%A Takashi Gojobori
+%A Boris Jankovic
+%A Mohamad Khalil
+%A Ahsan H. Khandoker
+%A Ahmed Morsy
+%D 2021
+%P 108–113
+
+%0 Journal Article
+%T A Survey on Interdependent Privacy
+%V 52
+%@ 0360-0300
+%U https://doi.org/10.1145/3360498
+%R 10.1145/3360498
+%N 6
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Mathias Humbert
+%A Benjamin Trubert
+%A Kévin Huguenin
+%D 2019
+%P Article 122
+%K statistical learning, game theory, user studies, Interdependent privacy
+
+%0 Conference Paper
+%T Battery-Free Eye Tracker on Glasses
+%@ 9781450359030
+%U https://doi.org/10.1145/3241539.3241578
+%R 10.1145/3241539.3241578
+%B Proceedings of the 24th Annual International Conference on Mobile Computing and Networking
+%I Association for Computing Machinery
+%A Tianxing Li
+%A Xia Zhou
+%D 2018
+%P 67–82
+%K energy harvesting, light sensing, eye tracking
+%C New Delhi, India
+
+%0 Conference Paper
+%T Nanobots for Biomedical Applications
+%@ 9781450361309
+%U https://doi.org/10.1145/3326172.3326189
+%R 10.1145/3326172.3326189
+%B Proceedings of the 2019 9th International Conference on Biomedical Engineering and Technology
+%I Association for Computing Machinery
+%A G. Krishna
+%A Lourde R. Mary
+%A Keerthi Jerome
+%D 2019
+%P 270–279
+%K NMR, Biomedical Instrumentation, NEMS, Drug delivery, Swarm Technology, Nanorobotics, Fabrication
+%C Tokyo, Japan
+
+%0 Conference Paper
+%T Transcranial Magnetic Stimulation versus Transcranial Direct Current Stimulation as neuromodulatory techniques in stroke rehabilitation
+%@ 9781450365185
+%U https://doi.org/10.1145/3284179.3284251
+%R 10.1145/3284179.3284251
+%B Proceedings of the Sixth International Conference on Technological Ecosystems for Enhancing Multiculturality
+%I Association for Computing Machinery
+%A María Antonia Fuentes Calderón
+%A Laura Olmedo Jiménez
+%A María José Sanchez Ledesma
+%D 2018
+%P 422–427
+%K stroke rehabilitation, transcranial direct current stimulation, neurological recovery, transcranial magnetic stimulation, neuromodulation
+%C Salamanca, Spain
+
+%0 Conference Paper
+%T Augmented reality action assistance and learning for cognitively impaired people: a systematic literature review
+%@ 9781450362320
+%U https://doi.org/10.1145/3316782.3316789
+%R 10.1145/3316782.3316789
+%B Proceedings of the 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments
+%I Association for Computing Machinery
+%A Jonas Blattgerste
+%A Patrick Renner
+%A Thies Pfeiffer
+%D 2019
+%P 270–279
+%K augmented reality, overview, cognitive impairments, training, assistance, survey, education
+%C Rhodes, Greece
+
+%0 Conference Paper
+%T Towards Engagement Recognition of People with Dementia in Care Settings
+%@ 9781450375818
+%U https://doi.org/10.1145/3382507.3418856
+%R 10.1145/3382507.3418856
+%B Proceedings of the 2020 International Conference on Multimodal Interaction
+%I Association for Computing Machinery
+%A Lars Steinert
+%A Felix Putze
+%A Dennis Küster
+%A Tanja Schultz
+%D 2020
+%P 558–565
+%K lstm, engagement, dementia, emotion, facial expressions
+%C Virtual Event, Netherlands
+
+%0 Journal Article
+%T GenoPri'17: International Workshop on Genome Privacy and Security
+%V 16
+%@ 1545-5963
+%U https://doi.org/10.1109/TCBB.2019.2891029
+%R 10.1109/TCBB.2019.2891029
+%N 4
+%J IEEE/ACM Trans. Comput. Biol. Bioinformatics
+%I IEEE Computer Society Press
+%A Erman Ayday
+%A Muhammad Naveed
+%A Haixu Tang
+%D 2019
+%P 1322–1323
+
+%0 Conference Paper
+%T Amón_RA: augmented reality to value historic urban landscape
+%@ 9781450376792
+%U https://doi.org/10.1145/3358961.3358977
+%R 10.1145/3358961.3358977
+%B Proceedings of the IX Latin American Conference on Human Computer Interaction
+%I Association for Computing Machinery
+%A Esteban Arias-Méndez
+%A David Porras-Alfaro
+%A Kenia García-Baltodano
+%D 2019
+%P Article 15
+%K San José, Barrio Amón, Costa Rica, tics, historic urban landscape
+%C Panama City, Panama
+
+%0 Book Section
+%T Brain–Computer Interfacing with Interactive Systems—Case Study 2
+%V 34
+%@ 9781450390293
+%U https://doi.org/10.1145/3447404.3447418
+%R 10.1145/3447404.3447418
+%B Intelligent Computing for Interactive System Design: Statistics, Digital Signal Processing, and Machine Learning in Practice
+%I Association for Computing Machinery
+%A A. Vourvopoulos
+%A E. Niforatos
+%A S. Bermudez i Badia
+%A Fotis Liarokapis
+%D 2021
+%P 237–272
+
+%0 Conference Paper
+%T Closer to Nature: Multi-sensory Engagement in Interactive Nature Experience for Seniors with Dementia
+%@ 9781450365086
+%U https://doi.org/10.1145/3202667.3202674
+%R 10.1145/3202667.3202674
+%B Proceedings of the Sixth International Symposium of Chinese CHI
+%I Association for Computing Machinery
+%A Yuan Feng
+%A Suihuai Yu
+%A Dirk van de Mortel
+%A Emilia Barakova
+%A Matthias Rauterberg
+%A Jun Hu
+%D 2018
+%P 49–56
+%K long-term care, multi-sensory stimulation, People with dementia, interaction design
+%C Montreal, QC, Canada
+
+%0 Journal Article
+%T A Review and Assessment Framework for Mobile-Based Emergency Intervention Apps
+%V 51
+%@ 0360-0300
+%U https://doi.org/10.1145/3145846
+%R 10.1145/3145846
+%N 1
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Michal Gaziel-Yablowitz
+%A David G. Schwartz
+%D 2018
+%P Article 15
+%K mHealth Emergency Applications
+
+%0 Conference Paper
+%T A machine learning approach for predicting post-stroke aphasia recovery: a pilot study
+%@ 9781450377737
+%U https://doi.org/10.1145/3389189.3389204
+%R 10.1145/3389189.3389204
+%B Proceedings of the 13th ACM International Conference on PErvasive Technologies Related to Assistive Environments
+%I Association for Computing Machinery
+%A Yiwen Gu
+%A Murtadha Bahrani
+%A Anne Billot
+%A Sha Lai
+%A Emily J. Braun
+%A Maria Varkanitsa
+%A Julia Bighetto
+%A Brenda Rapp
+%A Todd B. Parrish
+%A David Caplan
+%A Cynthia K. Thompson
+%A Swathi Kiran
+%A Margrit Betke
+%D 2020
+%P Article 22
+%K machine learning, recovery, stroke, aphasia
+%C Corfu, Greece
+
+%0 Conference Paper
+%T Exploring Self-Defining Memories in Old Age and their Digital Cues
+%@ 9781450351980
+%U https://doi.org/10.1145/3196709.3196767
+%R 10.1145/3196709.3196767
+%B Proceedings of the 2018 Designing Interactive Systems Conference
+%I Association for Computing Machinery
+%A Corina Sas
+%D 2018
+%P 149–161
+%K older adults, self, self-defining memories, memory cues
+%C Hong Kong, China
+
+%0 Journal Article
+%T Future assistive devices: What's at stake for you or me?
+%V 26
+%@ 1528-4972
+%U https://doi.org/10.1145/3351484
+%R 10.1145/3351484
+%N 1
+%J XRDS
+%I Association for Computing Machinery
+%A Lars Oestreicher
+%D 2019
+%P 46–49
+
+%0 Journal Article
+%T Security in Brain-Computer Interfaces: State-of-the-Art, Opportunities, and Future Challenges
+%V 54
+%@ 0360-0300
+%U https://doi.org/10.1145/3427376
+%R 10.1145/3427376
+%N 1
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Sergio López Bernal
+%A Alberto Huertas Celdrán
+%A Gregorio Martínez Pérez
+%A Michael Taynnan Barros
+%A Sasitharan Balasubramaniam
+%D 2021
+%P Article 11
+%K BCI, privacy, cybersecurity, Brain-computer interfaces, safety
+
+%0 Conference Paper
+%T The role of PPG in identification of mild cognitive impairment
+%@ 9781450362320
+%U https://doi.org/10.1145/3316782.3316798
+%R 10.1145/3316782.3316798
+%B Proceedings of the 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments
+%I Association for Computing Machinery
+%A Migyeong Gwak
+%A Ellen Woo
+%A Majid Sarrafzadeh
+%D 2019
+%P 32–35
+%K biosignal classification, photoplethysmography (PPG), feature selection, mild cognitive impairment (MCI)
+%C Rhodes, Greece
+
+%0 Journal Article
+%T Space-Time Drift Point Detection in Mobility Patterns
+%V 6
+%@ 2374-0353
+%U https://doi.org/10.1145/3360721
+%R 10.1145/3360721
+%N 1
+%J ACM Trans. Spatial Algorithms Syst.
+%I Association for Computing Machinery
+%A Roberto C. S. N. P. Souza
+%A Derick M. Oliveira
+%A Denise E. F. de Brito
+%A Renato M. Assunção
+%A Wagner Meira Jr.
+%D 2019
+%P Article 4
+%K GPS traces, Mobility drift detection, mobility patterns, spatial behavior, geo-tagged social media data
+
+%0 Journal Article
+%T Results of Field Trials with a Mobile Service Robot for Older Adults in 16 Private Households
+%V 9
+%U https://doi.org/10.1145/3368554
+%R 10.1145/3368554
+%N 2
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Markus Bajones
+%A David Fischinger
+%A Astrid Weiss
+%A Paloma De La Puente
+%A Daniel Wolf
+%A Markus Vincze
+%A Tobias Körtner
+%A Markus Weninger
+%A Konstantinos Papoutsakis
+%A Damien Michel
+%A Ammar Qammaz
+%A Paschalis Panteleris
+%A Michalis Foukarakis
+%A Ilia Adami
+%A Danae Ioannidi
+%A Asterios Leonidis
+%A Margherita Antona
+%A Antonis Argyros
+%A Peter Mayer
+%A Paul Panek
+%A Håkan Eftring
+%A Susanne Frennert
+%D 2019
+%P Article 10
+%K robotic companions, long-term human-robot interaction, Social robot, mutual care, field trials, assistive robotics
+
+%0 Conference Paper
+%T VocabChecker: Measuring Language Abilities for Detecting Early Stage Dementia
+%@ 9781450355711
+%U https://doi.org/10.1145/3180308.3180332
+%R 10.1145/3180308.3180332
+%B Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion
+%I Association for Computing Machinery
+%A Daisaku Shibata
+%A Shoko Wakamiya
+%A Kaoru Ito
+%A Mai Miyabe
+%A Ayae Kinoshita
+%A Eiji Aramaki
+%D 2018
+%P Article 24
+%K iOS application, Dementia, NLP, Language ability
+%C Tokyo, Japan
+
+%0 Journal Article
+%T Optimizing the Linear Fascicle Evaluation Algorithm for Multi-core and Many-core Systems
+%V 7
+%@ 2329-4949
+%U https://doi.org/10.1145/3418075
+%R 10.1145/3418075
+%N 4
+%J ACM Trans. Parallel Comput.
+%I Association for Computing Machinery
+%A Karan Aggarwal
+%A Uday Bondhugula
+%D 2020
+%P Article 22
+%K sparse tucker decomposition, indirect array accesses, GPU, tensor decomposition, LiFE algorithm, tractography, multi-core, SpMV, connectome
+
+%0 Conference Paper
+%T We Can Do Better! An Initial Survey Highlighting an Opportunity for More HRI Work on Loneliness
+%@ 9781450382908
+%U https://doi.org/10.1145/3434074.3447213
+%R 10.1145/3434074.3447213
+%B Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Rahatul Amin Ananto
+%A James E. Young
+%D 2021
+%P 457–462
+%K human-robotics interaction, social robots, loneliness
+%C Boulder, CO, USA
+

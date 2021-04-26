@@ -1,0 +1,23 @@
+Artigos além de 2012
+
+IEEE -  2012-2018 por relevancia
+((Alzheimer* AND (Magnetic-Resonance-Imag* OR *MRI OR DTI OR Diffusion OR PET OR Positron OR EEG) AND (Deep-learning OR neural-network* OR *ranking OR retrieval OR CBIR)))
+
+
+
+
+ACM - 
+ (Alzheimer* AND (magnetic-resonance-imag* OR *MRI OR DTI OR Diffusion OR PET OR Positron OR EEG) AND (Deep-learning OR neural-network* OR *ranking OR retrieval OR CBIR))  
+
+PubMed - Five years and only humans
+(Alzheimer* AND (Magnetic-Resonance-Imag* OR *MRI OR DTI OR Diffusion OR PET OR Positron OR EEG) AND (Deep-learning OR neural-network* OR *ranking OR retrieval OR CBIR)) 
+
+Scopus
+
+TITLE-ABS-KEY ( ( alzheimer*  AND  ( "magnetic resonance imag*"  OR  *mri  OR  dti  OR  diffusion  OR  pet  OR  positron  OR  eeg )  AND  ( "Deep learning"  OR  "neural network*"  OR  *ranking  OR  retrieval  OR  cbir ) ) )  AND  PUBYEAR  >  2012  AND  ( LIMIT-TO ( PUBYEAR ,  2018 )  OR  LIMIT-TO ( PUBYEAR ,  2017 )  OR  LIMIT-TO ( PUBYEAR ,  2016 )  OR  LIMIT-TO ( PUBYEAR ,  2015 )  OR  LIMIT-TO ( PUBYEAR ,  2014 )  OR  LIMIT-TO ( PUBYEAR ,  2013 ) )  
+
+Springer - (Alzheimer* AND (Magnetic-Resonance-Imag* OR *MRI OR DTI OR Diffusion OR PET OR Positron OR EEG) AND (Deep-learning OR neural-network* OR *ranking OR retrieval OR CBIR))
+
+Web of Science 
+
+((TS=(Alzheimer* AND (Magnetic-Resonance-Imag* OR *MRI OR DTI OR Diffusion OR PET OR Positron OR EEG) AND (Deep-learning OR neural-network* OR *ranking OR retrieval OR CBIR)))) AND Idioma: (English) 
