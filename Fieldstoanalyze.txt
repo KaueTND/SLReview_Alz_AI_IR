@@ -1,0 +1,11 @@
+Titulo
+Ano 
+Imagem
+Dataset
+Ranking/Neural
+ROI
+Metricas
+N imagem
+Metricas Val
+Autores 
+Instituição
