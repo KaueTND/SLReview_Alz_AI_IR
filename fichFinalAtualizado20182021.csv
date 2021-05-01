@@ -1,6 +1,6 @@
 Titulo;Autores;Ano;Instituicao;Imagem;Dataset;Ranking/Neural;ROI;Metricas;n Imagens
 3D Convolutional Neural Network and Stacked Bidirectional Recurrent Neural Network for Alzheimer's Disease Diagnosis;n121;2018;Shenzhen University;MRI, PET;ADNI;Neural;Other Anatomical;A,S,R;397[100-128-76-93]
-A Novel Deep Learning Framework on Brain Functional Networks for Early MCI Diagnosis;n136;2018;;;;;;;
+A Novel Deep Learning Framework on Brain Functional Networks for Early MCI Diagnosis;n136;2018;University of North Carolina at Chapel Hill;fMRI ;ADNI;Neural;Other Anatomical;A,S,R;351[172-179-0]
 Deep Convolutional Neural Networks for Automated Diagnosis of AlzheimerÍs Disease and Mild Cognitive Impairment Using 3D Brain MRI;n148;2018;;;;;;;
 Early Detection of AlzheimerÍs Disease Using Deep Learning;n245;2018;;;;;;;
 Non-white matter tissue extraction and deep convolutional neural network for Alzheimer's disease detection;n333;2018;;;;;;;

@@ -5,7 +5,7 @@ Dataset
 Ranking/Neural
 ROI
 Metricas
-N imagem
-Metricas Val
+N imagem - 504[171-232-101] = TOTAL[Normal Control-MCI-AD]
+Metricas Val - [1]= Neural; [2] = CBIR
 Autores 
 Instituição
