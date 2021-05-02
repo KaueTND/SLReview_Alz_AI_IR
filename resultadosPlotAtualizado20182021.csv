@@ -1,26 +1,26 @@
-Work;Work;n121;n136
-What;Method;1;1
-Accuracy;MultiClass;;
-Accuracy;AD vs MCI;;
-Accuracy;AD vs NC;94.29;
-Accuracy;MCI vs NC;64.47;74.23
-Specificity;MultiClass;;
-Specificity;AD vs MCI;;
-Specificity;AD vs NC;92.38;
-Specificity;MCI vs NC;48.41;72.92
-Recall;MultiClass;;
-Recall;AD vs MCI;;
-Recall;AD vs NC;96.59;
-Recall;MCI vs NC;70.43;75.51
-F1score;MultiClass;;
-F1score;AD vs MCI;;
-F1score;AD vs NC;;
-F1score;MCI vs NC;;
-Precision;MultiClass;;
-Precision;AD vs MCI;;
-Precision;AD vs NC;;
-Precision;MCI vs NC;;
-MAP;MultiClass;;
-MAP;AD vs MCI;;
-MAP;AD vs NC;;
-MAP;MCI vs NC;;
+Work;Work;n121;n136;n333
+What;Method;1;1;1
+Accuracy;MultiClass;;;
+Accuracy;AD vs MCI;;;93
+Accuracy;AD vs NC;94.29;;98.8
+Accuracy;MCI vs NC;64.47;74.23;95
+Specificity;MultiClass;;;
+Specificity;AD vs MCI;;;
+Specificity;AD vs NC;92.38;;
+Specificity;MCI vs NC;48.41;72.92;
+Recall;MultiClass;;;
+Recall;AD vs MCI;;;
+Recall;AD vs NC;96.59;;
+Recall;MCI vs NC;70.43;75.51;
+F1score;MultiClass;;;
+F1score;AD vs MCI;;;
+F1score;AD vs NC;;;
+F1score;MCI vs NC;;;
+Precision;MultiClass;;;
+Precision;AD vs MCI;;;
+Precision;AD vs NC;;;
+Precision;MCI vs NC;;;
+MAP;MultiClass;;;
+MAP;AD vs MCI;;;
+MAP;AD vs NC;;;
+MAP;MCI vs NC;;;
