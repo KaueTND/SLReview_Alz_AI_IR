@@ -1,14 +1,14 @@
 Titulo;Autores;Ano;Instituicao;Imagem;Dataset;Ranking/Neural;ROI;Metricas;n Imagens
 3D Convolutional Neural Network and Stacked Bidirectional Recurrent Neural Network for Alzheimer's Disease Diagnosis;n121;2018;Shenzhen University;MRI, PET;ADNI;Neural;Other Anatomical;A,S,R;397[100-128-76-93]
 A Novel Deep Learning Framework on Brain Functional Networks for Early MCI Diagnosis;n136;2018;University of North Carolina at Chapel Hill;MRI;ADNI;Neural;Other Anatomical;A,S,R;351[172-179-0]
-Deep Convolutional Neural Networks for Automated Diagnosis of AlzheimerÍs Disease and Mild Cognitive Impairment Using 3D Brain MRI;n148;2018;Georgia State University;MRI;ADNI, OASIS ;Neural;Other Anatomical;;1726[537-806-347]
-Early Detection of AlzheimerÍs Disease Using Deep Learning;n245;2018;Guangdong University of Technology;MRI;ADNI;Neural;whole brain;;509[162-134-76-137]
+Deep Convolutional Neural Networks for Automated Diagnosis of AlzheimerÍs Disease and Mild Cognitive Impairment Using 3D Brain MRI;n148;2018;Georgia State University;MRI;ADNI,OASIS ;Neural;Other Anatomical;A,S,R;1726[537-806-347]
+Early Detection of AlzheimerÍs Disease Using Deep Learning;n245;2018;Guangdong University of Technology;MRI, PET;ADNI;Neural;Other Anatomical;A;509[162-134-76-137]
 Non-white matter tissue extraction and deep convolutional neural network for Alzheimer's disease detection;n333;2018;Chonnam National University;MRI, PET;ADNI;Neural;Other Anatomical;A;615[207-215-193]
-Classification of Alzheimer's Disease Based on Eight-Layer Convolutional Neural Network with Leaky Rectified Linear Unit and Max Pooling;n374;2018;;;;;;;
-Multi-Modality Cascaded Convolutional Neural Networks for Alzheimer's Disease Diagnosis;n450;2018;;;;;;;
+Classification of Alzheimer's Disease Based on Eight-Layer Convolutional Neural Network with Leaky Rectified Linear Unit and Max Pooling;n374;2018;University of Leicester;MRI;OASIS;Neural;Other Anatomical;A,S,R;196[98-0-98]
+Multi-Modality Cascaded Convolutional Neural Networks for Alzheimer's Disease Diagnosis;n450;2018;Shanghai Jiao Tong University;MRI, PET;ADNI;Neural;Other Anatomical;A,S,R;397[100-76-126-93]
 Multiscale deep neural network based analysis of FDG-PET images for the early diagnosis of Alzheimer's disease;n634;2018;xxx;;;;;;
-Alzheimer's disease Classification from Brain MRI based on transfer learning from CNN;n863;2018;;;;;;;
-Classification of Alzheimer Disease on Imaging Modalities with Deep CNNs Using Cross-Modal Transfer Learning;n869;2018;;;;;;;
+Alzheimer's disease Classification from Brain MRI based on transfer learning from CNN;n863;2018;xxx;;;;;;
+Classification of Alzheimer Disease on Imaging Modalities with Deep CNNs Using Cross-Modal Transfer Learning;n869;2018;xxx;;;;;;
 VGG19-Based Classification of Amyloid PET Image in Patients with MCI and AD;n881;2018;;;;;;;
 Detection of Early Stage AlzheimeräÛªs Disease using EEG Relative Power with Deep Neural Network;n890;2018;;;;;;;
 A Novel Multimodal MRI Analysis for Alzheimer's Disease Based on Convolutional Neural Network;n891;2018;;;;;;;
