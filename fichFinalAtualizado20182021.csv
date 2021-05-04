@@ -29,16 +29,16 @@ A deep learning model for early prediction of Alzheimer's disease dementia based
 Ensemble of 3D densely connected convolutional network for diagnosis of mild cognitive impairment and Alzheimer's disease;n654;2019;Shenzhen Institutes of Advanced Technology;MRI;ADNI;Neural;;A,R,P;833[315-297-221]
 Early Alzheimer's disease diagnosis based on EEG spectral images using deep learning;n662;2019;Minzu University of China;MRI;;Neural;Other Anatomical;A;12000[4000-4000-4000]
 Automated classification of Alzheimer's disease and mild cognitive impairment using a single MRI and deep neural networks;n704;2019;Vita-Salute San Raffaele University;MRI;ADNI;Neural;Whole Brain;A,S,R;1638[407-533-280-418]
-Classification and Visualization of Alzheimer's Disease using Volumetric Convolutional Neural Network and Transfer Learning;n753;2019;Jeonbuk National University;MRI;ADNI;Neural;Other Anatomical;A,S,R;694[230-101-166-198]
-Deep Learning Framework for AlzheimeräÛªs Disease Diagnosis via 3D-CNN and FSBi-LSTM;n814;2019;;;;;;;
-3D Convolutional Networks Based Automatic Diagnosis of Alzheimer's Disease Using Structural MRI;n878;2019;;;;;;;
-Early Diagnoses of Alzheimer using EEG data and Deep Neural Networks classification;n898;2019;;;;;;;
-Transfer Learning for Alzheimer's Disease Detection on MRI Images;n924;2019;;;;;;;
-MULTISCALE DEEP CONVOLUTIONAL NETWORKS FOR CHARACTERIZATION AND DETECTION OF ALZHEIMER'S DISEASE USING MR IMAGES;n932;2019;;;;;;;
-GRAPH CONVOLUTIONAL NEURAL NETWORKS FOR ALZHEIMER'S DISEASE CLASSIFICATION;n968;2019;;;;;;;
-Classification of Alzheimer's Disease from MRI Data Using an Ensemble of Hybrid Deep Convolutional Neural Networks;n1012;2019;;;;;;;
-Alzheimer's disease diagnosis from structural MRI using Siamese convolutional neural network;n1018;2019;;;;;;;
-Early Diagnosis of Alzheimer's Disease Using Deep Learning;n1214;2019;;;;;;;
+Classification and Visualization of Alzheimer's Disease using Volumetric Convolutional Neural Network and Transfer Learning;n753;2019;Jeonbuk National University;MRI;ADNI;Neural;Other Anatomical;A,S,R,F;694[230-101-166-198]
+Deep Learning Framework for AlzheimeräÛªs Disease Diagnosis via 3D-CNN and FSBi-LSTM;n814;2019;Shenzhen University;MRI, PET;ADNI;Neural;Whole Brain;A,S,R;397[100-128-76-93]
+3D Convolutional Networks Based Automatic Diagnosis of Alzheimer's Disease Using Structural MRI;n878;2019;Shanghai University;;ADNI;Neural;Hippocampus ;A,S,R,F;391[112-129-150]  
+Early Diagnoses of Alzheimer using EEG data and Deep Neural Networks classification;n898;2019;xxx;;;;;;
+Transfer Learning for Alzheimer's Disease Detection on MRI Images;n924;2019;xxx;;;;;;
+MULTISCALE DEEP CONVOLUTIONAL NETWORKS FOR CHARACTERIZATION AND DETECTION OF ALZHEIMER'S DISEASE USING MR IMAGES;n932;2019;Chalmers University of Technology;MRI;ADNI;Neural;Other Anatomical;A;337[139-198]
+GRAPH CONVOLUTIONAL NEURAL NETWORKS FOR ALZHEIMER'S DISEASE CLASSIFICATION;n968;2019;xxx;;;;;;
+Classification of Alzheimer's Disease from MRI Data Using an Ensemble of Hybrid Deep Convolutional Neural Networks;n1012;2019;xxx;;;;;;
+Alzheimer's disease diagnosis from structural MRI using Siamese convolutional neural network;n1018;2019;Babol Noshirvani University of Technology;MRI;OASIS;Neural;Other Anatomical;A;235[135-0-100]
+Early Diagnosis of Alzheimer's Disease Using Deep Learning;n1214;2019;Guilin University of Electronic Technology Guilin, China;MRI;ADNI;Neural;Whole Brain;A,S,R;615[182-254-179]
 A Deep Learning Model to Predict a Diagnosis of Alzheimer Disease by Using F-18-FDG PET of the Brain;n1290;2019;;;;;;;
 Neuroimaging modality fusion in Alzheimer's classification using convolutional neural networks;n1374;2019;;;;;;;
 Using Deep CNN with Data Permutation Scheme for Classification of Alzheimer's Disease in Structural Magnetic Resonance Imaging (sMRI);n1389;2019;;;;;;;
