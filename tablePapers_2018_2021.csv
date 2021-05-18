@@ -1,0 +1,49 @@
+Autores;Imagem;Dataset;ROI;Metricas
+\cite{n223};MRI, PET;ADNI;H;A,S,R
+\cite{n1400};MRI;ADNI;H;A,R,P
+\cite{n1554};MRI;ADNI;H;A,S,R
+\cite{n1356};x;OASIS;H ;P,R,F
+\cite{n878};x;ADNI;H ;A,S,R,F
+\cite{n1475};MRI, PET;ADNI;H ;A,S,R
+\cite{n958};MRI;ADNI;H ;A
+\cite{n1472};MRI;ADNI ;H ;A
+\cite{n661};MRI;ADNI;H ;A,S,R
+\cite{n89};x;ADNI ;O;A
+\cite{n1290};PET;ADNI;O;A,S,R
+\cite{n121};MRI, PET;ADNI;O;A,S,R
+\cite{n245};MRI, PET;ADNI;O;A
+\cite{n333};MRI, PET;ADNI;O;A
+\cite{n450};MRI, PET;ADNI;O;A,S,R
+\cite{n1468};MRI, PET;ADNI ;O;A,S,R
+\cite{n1377};MRI, DTI;ADNI;O;A,P,R,F
+\cite{n136};MRI;ADNI;O;A,S,R
+\cite{n148};MRI;ADNI,OASIS ;O;A,S,R
+\cite{n374};MRI;OASIS;O;A,S,R
+\cite{n380};MRI;ADNI;O;A
+\cite{n563};MRI;ADNI;O;A
+\cite{n662};MRI;x;O;A
+\cite{n753};MRI;ADNI;O;A,S,R,F
+\cite{n932};MRI;ADNI;O;A
+\cite{n1018};MRI;OASIS;O;A
+\cite{n700};MRI;ADNI;O;A,S,R
+\cite{n106};MRI;ADNI,OASIS ;O;A,P,R,S,F
+\cite{n767};MRI;ADNI,OASIS ;O;A
+\cite{n1545};PET;Own;W;A
+\cite{n814};MRI, PET;ADNI;W;A,S,R
+\cite{n510};MRI, PET;ADNI;W;A
+\cite{n762};MRI, PET;ADNI;W;A,R,P
+\cite{n1540};MRI, PET;ADNI;W;A,S,R,F
+\cite{n897};MRI;ADNI;W;A
+\cite{n1415};MRI;ADNI;W;A,S,R,F
+\cite{n704};MRI;ADNI;W;A,S,R
+\cite{n1214};MRI;ADNI;W;A,S,R
+\cite{n1514};MRI;ADNI;W;A,S,R
+\cite{n267};MRI;ADNI;W;A,R,P
+\cite{n1510};MRI;OASIS;W;A
+\cite{n1547};MRI;OASIS, MIRIAD;W;A,S,R
+\cite{n1555};MRI;ADNI;W;A
+\cite{n409};MRI;ADNI;W;A,S,R
+\cite{n562};MRI;ADNI,OASIS ;W;A,S,R
+\cite{n644};MRI;ADNI;W;A,S,R
+\cite{n348};MRI;ADNI;W;A,R,P
+\cite{n654};MRI;ADNI;x;A,R,P
