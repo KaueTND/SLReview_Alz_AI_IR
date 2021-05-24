@@ -20,7 +20,7 @@ An efficient 3D deep convolutional network for Alzheimer's disease diagnosis usi
 Brain MRI analysis for Alzheimer's disease diagnosis using an ensemble system of deep convolutional neural networks;n1356;2018;Georgia State University;x;OASIS;Neural;Hippocampus ;P,R,F;416;;3D
 Alzheimer's disease diagnostics by a 3D deeply supervised adaptable convolutional network;n1415;2018;University of Louisville;MRI;ADNI;Neural;Whole Brain;A,S,R,F;210[70-70-70];;3D
 Classification of Alzheimer's Disease by Combination of Convolutional and Recurrent Neural Networks Using FDG-PET Images;n1468;2018;Shanghai Jiao Tong University;MRI, PET;ADNI ;Neural;Other Anatomical;A,S,R;339[100-146-93];;
-Convolutional Neural Networks-Based MRI Image Analysis for the Alzheimer's Disease Prediction From Mild Cognitive Impairment;n1472;2018;Fuzhou University;MRI;ADNI ;Neural;Hippocampus ;A;818[229-401-188];;2.5D
+Convolutional Neural Networks-Based MRI Image Analysis for the Alzheimer's Disease Prediction From Mild Cognitive Impairment;n1472;2018;Fuzhou University;MRI;ADNI ;Neural;Hippocampus ;A;818[229-401-188];;3D
 Automated Multiclass Classification of Spontaneous EEG Activity in Alzheimer's Disease and Mild Cognitive Impairment;n1517;2018;;;;;;;;;
 Diagnosis of Alzheimer's disease with Sobolev gradient-based optimization and 3D convolutional neural network;n89;2019;Akdeniz University;x;ADNI ;Neural;Other Anatomical;A;1138[568-0-570];;3D
 A Cascaded Multi-modality Analysis in Mild Cognitive Impairment;n178;2019;;;;;;;;;
